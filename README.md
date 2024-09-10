@@ -290,9 +290,20 @@
 
 </details>
 
+<details>
+  <summary>Чек-лист</summary> 
+  https://docs.google.com/spreadsheets/d/1N8lG7EpF0ZvKeIrxf2oFov0jEFarL693SBAluBYQVhg/edit?gid=2006427015#gid=2006427015
+  </details>
 
+<details>
+  <summary>Баг-репорты</summary>   
+  https://karlen.youtrack.cloud/issues?q=tag:%20%7BSprint%204%7D
+  </details>
 
-
+<details>
+  <summary>Отчет о тестировании</summary>
+  https://docs.google.com/spreadsheets/d/1N8lG7EpF0ZvKeIrxf2oFov0jEFarL693SBAluBYQVhg/edit?gid=2002403014#gid=2002403014
+   </details>
 
  
 
